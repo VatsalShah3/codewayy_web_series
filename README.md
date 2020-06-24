@@ -6,3 +6,7 @@ I am student of DIT University persuing BTech in Computer Sciencec and Engineeri
 ## Task 1 
 
 This task is about creating first HTML page by using basic tags of html.
+
+## Task 2
+
+In this task I made a html file containing my details and a form.
