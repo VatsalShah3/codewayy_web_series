@@ -1,0 +1,21 @@
+#Year {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: centre;
+  }
+  
+  th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: centre;
+    background: #4287f5;
+    color: white;
+  }

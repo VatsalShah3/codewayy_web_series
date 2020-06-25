@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <style>
+        div{
+         width: 300px;
+         height: 320px;
+         border: 2px solid black;
+         padding: 15px;
+         position: absolute;
+         left: 35%;
+        }
+         </style>
+</head>
+<body>
+    <div>
+        <form>
+            <b>Name:  </b><input type="text" name="Name" placeholder="Enter Name" required><br><br>
+            <b>Email:  </b><input type="email" name="Email" placeholder="Enter email" required><br><br>
+            <b>Number:  </b><input type="number" name="Number" placeholder="Enter Number" required><br><br>
+            <b>Gender:  </b><br>
+            <input type="radio" name="Gender" value="Male" placeholder="Male" required><label>Male</label>
+            <input type="radio" name="Gender" value="Female" placeholder="Male" required><label>Female</label><br><br>
+            <b>Message:  </b><br>
+            <textarea name="Message" cols="30" rows="3" placeholder="Please Enter your message"></textarea><br><br>
+            <input type="submit" name="Submit" value="Submit Form">
+            <input type="reset" name="Reset" value="Reset"><br><br>
+            <a href="index.html" target="_blank">Go back to home page</a>
+        </form>
+    </div>
+</body>
+</html>

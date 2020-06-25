@@ -10,3 +10,7 @@ This task is about creating first HTML page by using basic tags of html.
 ## Task 2
 
 In this task I made a html file containing my details and a form.
+
+## Task 3
+
+In this task I made a website containing some of my details and also created a registration form by adding css in it.
