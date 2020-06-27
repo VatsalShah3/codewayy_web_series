@@ -14,3 +14,7 @@ In this task I made a html file containing my details and a form.
 ## Task 3
 
 In this task I made a website containing some of my details and also created a registration form by adding css in it.
+
+## Task 4 
+
+In this task I made an HTML page by applying css to it as per the given snippet. 
