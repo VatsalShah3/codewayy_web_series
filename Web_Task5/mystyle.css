@@ -1,0 +1,92 @@
+.btn-img{
+	height: 200px;
+	background-color: #cccccc;
+	background-image: url(Images/mountains.jpg);
+	background-size: cover;/*
+	background-position: center;*/
+}
+
+.button{
+	height: 40px;
+	width: 140px;/*
+	margin-left: 40px;*/
+	/*
+	background-color: transparent;
+	background-repeat: no-repeat;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    */
+    opacity: 0.4;
+    border-radius: 6px;
+    margin: 0px 50px;
+}
+
+.type-b{
+	opacity: 1;
+	background-color: white;
+}
+
+#h2{
+	text-align: center;
+	padding: 20px;
+	color: white;
+}
+
+.box{
+	width: 250px;
+	height: 500px;
+	background: #649405;
+	float: left;
+	margin-right: 20px;
+}
+
+#ul{
+	margin: 20px;	
+}
+
+/* 
+Margin: empty space around my element
+Border: border/stroke around the element
+Padding: empty space with background around my element
+*/
+
+.img1{
+	width: 180px;
+	height: 110px;
+	margin: 35px 35px 10px;
+	border: 2px solid black;
+}
+
+.img2{
+	width: 180px;
+	height: 110px;
+	margin: 10px 35px;
+	border: 2px solid black;
+}
+
+.txt{
+	margin-left: 20px;
+}
+
+/*Pseudo classes for anchor tag */
+a:link{
+	font-size: 15px;
+}
+
+a:visited{
+	color: brown;
+}
+
+a:hover{
+	font-size: 25px;
+}
+
+a:focus{
+	background: yellow;
+}
+
+a:active{
+	color: green;
+	font-weight: 900;
+}
