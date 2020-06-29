@@ -18,3 +18,7 @@ In this task I made a website containing some of my details and also created a r
 ## Task 4 
 
 In this task I made an HTML page by applying css to it as per the given snippet. 
+
+## Task 5
+
+In this task I made an HTML page to implement some html and css tags.
