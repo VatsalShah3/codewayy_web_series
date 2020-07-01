@@ -34,13 +34,14 @@ li a:hover {
 
 /* section first */
 
-.box12 {
+.boxmain {
     margin-top: 5px;
     float: left;
 }
 
-#first {
+#first1 {
     float: left;
+    margin-left: 100px;
 }
 #name {
     height: 250px;
