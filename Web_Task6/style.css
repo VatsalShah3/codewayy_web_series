@@ -1,0 +1,249 @@
+/* header */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #21dbb9;
+    width: 1200px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #2134db;
+}
+
+#first {
+    margin-left: 100px;
+}
+
+.float {
+    margin-left: 600px;
+}
+
+/* section first */
+
+.box12 {
+    margin-top: 5px;
+    float: left;
+}
+
+#first {
+    float: left;
+}
+#name {
+    height: 250px;
+    width: 350px;
+    background-color: #79c6e0;
+    margin-left: 0px;
+}
+
+#name button {
+    display: inline;
+    color: blue;
+    text-align: center;
+    padding: 10px;
+    background-color: transparent;
+    text-decoration: none;
+    margin-left: 40px;
+    border: 1px solid blue;
+}
+
+#myname {
+    text-align: center;
+    font-size: x-large;
+}
+
+#photo {
+    margin-left: 10px;
+    height: 250px;
+    width: 600px;
+    background-image: url(Images/b1.jpg);
+    background-position: center;
+}
+
+#about {
+    height: 330px;
+    width: 960px;
+    background-image: url(Images/sky.jpg);
+    background-position: center;
+}
+
+#abouttxt{
+    text-align: center;
+    font-size: medium;
+}
+
+#education {
+    height: 320px;
+    width: 470px;
+    background-color: #79c6e0;
+    margin-left: 0px;
+}
+
+.imgedu {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: 35px;
+    width: 35px;
+  }
+
+#experience {
+    height: 320px;
+    width: 470px;
+    background-color: #79c6e0;
+    margin-left: 20px;
+}
+
+#myservices {
+    height: 120px;
+    width: 960px;
+    background-color: #79c6e0;
+    background-position: center;
+}
+
+#s2 {
+    height: 270px;
+    width: 1000px;
+    background-color: white;
+}
+
+#s2p {
+    font-size: 12px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#web {
+    height: 240px;
+    width: 233px;
+    background-color: #79c6e0;
+    margin-left: 0px;
+}
+
+#advertising {
+    height: 240px;
+    width: 233px;
+    background-color: #79c6e0;
+    margin-left: 10px;
+}
+
+#gamedevelopment {
+    height: 240px;
+    width: 233px;
+    background-color: #79c6e0;
+    margin-left: 10px;
+}
+
+#music {
+    height: 240px;
+    width: 232px;
+    background-color: #79c6e0;
+    margin-left: 10px;
+}
+
+#recent {
+    height: 120px;
+    width: 960px;
+    background-color: #79c6e0;
+    background-position: center;
+}
+
+#s3 {
+    height: 270px;
+    width: 1000px;
+    background-color: white;
+}
+
+#mobapp {
+    height: 250px;
+    width: 233px;
+    background-color: #79c6e0;
+    margin-left: 0px;
+}
+
+#swebsite {
+    height: 250px;
+    width: 233px;
+    background-color: #79c6e0;
+    margin-left: 10px;
+}
+
+#ecommerce {
+    height: 250px;
+    width: 233px;
+    background-color: #79c6e0;
+    margin-left: 10px;
+}
+
+#cwebsite {
+    height: 250px;
+    width: 232px;
+    background-color: #79c6e0;
+    margin-left: 10px;
+}
+
+#empty {
+    height: 370px;
+    width: 470px;
+    background-color: #c3a3ff;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+
+#form {
+    height: 370px;
+    width: 470px;
+    background-color: #79c6e0;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#forminput {
+    padding-left: 70px;
+    padding-right: 50px;
+    margin: 10px;
+}
+
+#subbtn {
+    width: 309px;
+    color: blue;
+    text-align: center;
+    padding: 10px;
+    background-color: transparent;
+    text-decoration: none;
+    border: 1px solid blue;
+}
+
+#formname {
+    align-items: center;
+    width: 295px;
+    padding: 5px;
+}
+
+#formemail {
+    align-items: center;
+    margin-top: 5px;
+    width: 295px;
+    padding: 5px;
+}
+
+#formarea {
+    align-items: center;
+    margin-top: 5px;
+    width: 297px;
+    height: 140px;
+    padding: 5px;
+}

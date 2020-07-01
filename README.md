@@ -22,3 +22,7 @@ In this task I made an HTML page by applying css to it as per the given snippet.
 ## Task 5
 
 In this task I made an HTML page to implement some html and css tags.
+
+## Task 6
+
+In this task I made an html page to display my resume.
