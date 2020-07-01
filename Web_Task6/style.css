@@ -60,7 +60,7 @@ li a:hover {
     border: 1px solid blue;
 }
 
-#myname {
+.myname {
     text-align: center;
     font-size: x-large;
 }
@@ -80,7 +80,7 @@ li a:hover {
     background-position: center;
 }
 
-#abouttxt{
+.abouttxt{
     text-align: center;
     font-size: medium;
 }
@@ -121,7 +121,7 @@ li a:hover {
     background-color: white;
 }
 
-#s2p {
+.s2p {
     font-size: 12px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
