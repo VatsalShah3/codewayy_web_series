@@ -26,3 +26,7 @@ In this task I made an HTML page to implement some html and css tags.
 ## Task 6
 
 In this task I made an html page to display my resume.
+
+## Task 7
+
+In this task I made 2 responsive websites. 
